@@ -6,3 +6,9 @@ In this project, i perform a EDA and Feature Engineering on the Housing price da
 		Numpy
 		Matplotlib
 		sklearn
+		
+		
+## How I approach this Problem Statement :-
+First of all i get the overall idea of the dataset using info() and Shape.
+Than i Seperate the categorical and numerical features to deal with them seperately.
+
